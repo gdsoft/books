@@ -5,6 +5,7 @@ https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
 
 ## Good Math/Bad Math的Lambda演算系列
 http://cgnail.github.io/academic/lambda-index/
+http://cgnail.github.io/tags/#function%20programming
 
 ## OS
 https://github.com/gdsoft/oranges
