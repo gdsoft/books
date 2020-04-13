@@ -9,8 +9,9 @@
 > https://pfmiles.wordpress.com/2009/11/12/%E9%80%90%E6%AD%A5%E7%90%86%E8%A7%A3%E4%B8%98%E5%A5%87%E6%95%B0%E4%B8%80/
 
 ## OS
-https://github.com/gdsoft/oranges
-《ORANGE’S：一个操作系统的实现》源码
+>《ORANGE’S：一个操作系统的实现》源码
+> https://github.com/gdsoft/oranges
 
 ## Python
-源码参照 https://github.com/gdsoft/python-file
+> 源码
+> https://github.com/gdsoft/python-file
