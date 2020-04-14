@@ -1,7 +1,7 @@
 # books
 
 ## 函数范式
-> https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
+https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
 
 ## Good Math/Bad Math的Lambda演算系列
 http://cgnail.github.io/academic/lambda-index/
