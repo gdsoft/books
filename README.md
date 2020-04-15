@@ -18,8 +18,8 @@
 再传递第二个参数就是其完整表示。
 ((n s) z)
 ```
-Hindley-Milner类型系统
-https://www.zybuluo.com/darwin-yuan/note/424724
+### Hindley-Milner类型系统
+#### https://www.zybuluo.com/darwin-yuan/note/424724
 
 ### 不动点 (Y组合子)
 #### https://www.jianshu.com/p/94efba6e6cb8
