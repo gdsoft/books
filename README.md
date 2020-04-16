@@ -22,6 +22,7 @@
 #### https://www.zybuluo.com/darwin-yuan/note/424724
 
 ### 不动点 (Y组合子)
+#### http://www.cppblog.com/huaxiazhihuo/archive/2013/07/11/201689.html
 #### https://blog.csdn.net/weixin_33737134/article/details/89079775
 #### https://www.jianshu.com/p/94efba6e6cb8
 #### https://www.cnblogs.com/pointer-smq/p/5229350.html
