@@ -36,11 +36,3 @@
 #### https://www.jianshu.com/p/cf28f2e5a905
 #### https://zhuanlan.zhihu.com/p/47130217
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content
-
-## OS
-####《ORANGE’S：一个操作系统的实现》源码
-#### https://github.com/gdsoft/oranges
-
-## Python
-#### 源码
-#### https://github.com/gdsoft/python-file
