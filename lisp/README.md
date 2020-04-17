@@ -1,6 +1,8 @@
 # books
 
 https://www.scheme.com/tspl4/
+https://github.com/guenchi/TSPL
+https://cisco.github.io/ChezScheme/csug9.5/
 
 ## 函数范式
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
