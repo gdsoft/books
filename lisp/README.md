@@ -4,6 +4,9 @@
 #### https://github.com/guenchi/TSPL
 #### https://cisco.github.io/ChezScheme/csug9.5/
 
+## The Little Schemer 中文版
+#### http://uternet.github.io/TLS/
+
 ## 函数范式
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
 
