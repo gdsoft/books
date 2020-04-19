@@ -6,7 +6,7 @@
 
 ## The Little Schemer 中文版
 #### http://uternet.github.io/TLS/
-#### http://www.cppblog.com/huaxiazhihuo/archive/2013/07/11/201689.html
+#### http://www.cppblog.com/huaxiazhihuo/archive/2013/07/11/201689.html  (这篇比第九章讲的好)
 
 ## 函数范式
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
