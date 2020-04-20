@@ -2,7 +2,10 @@
 
 #### https://www.scheme.com/tspl4/
 #### https://github.com/guenchi/TSPL
+
+## Chez Scheme Version 9.5 User's Guide
 #### https://cisco.github.io/ChezScheme/csug9.5/
+#### https://github.com/guenchi/CSUG (中文版)
 
 ## The Little Schemer 中文版
 #### http://uternet.github.io/TLS/
