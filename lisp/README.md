@@ -13,6 +13,7 @@
 
 ## 函数范式
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
+#### http://www.ruanyifeng.com/blog/2017/03/ramda.html
 
 ### Good Math/Bad Math的Lambda演算系列
 #### http://cgnail.github.io/academic/lambda-index/
