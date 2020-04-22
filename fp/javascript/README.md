@@ -3,3 +3,6 @@
 
 ## biwascheme
 #### https://github.com/biwascheme/biwascheme
+
+## node debug
+#### https://nodejs.org/zh-cn/docs/guides/debugging-getting-started/
