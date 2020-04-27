@@ -18,3 +18,6 @@ Using Node.js functions
 ## node debug
 #### https://nodejs.org/zh-cn/docs/guides/debugging-getting-started/
 #### https://www.cnblogs.com/zhushunli/p/6278417.html
+
+## JavaScript 线程
+#### https://blog.csdn.net/qq_36995542/article/details/80007381
