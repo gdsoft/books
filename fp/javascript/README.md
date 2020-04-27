@@ -21,3 +21,5 @@ Using Node.js functions
 
 ## JavaScript 线程
 #### https://blog.csdn.net/qq_36995542/article/details/80007381
+## Node.ja 线程
+#### https://www.jb51.net/article/158538.htm
