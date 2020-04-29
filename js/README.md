@@ -3,3 +3,6 @@
 
 ## Node.js：来一打 C++ 扩展 随书源码
 #### https://github.com/XadillaX/nyaa-nodejs-demo
+
+## 可恶的 node_modules
+#### https://www.jianshu.com/p/b4bf50823b50
