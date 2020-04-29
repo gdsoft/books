@@ -6,3 +6,6 @@
 
 ## 可恶的 node_modules
 #### https://www.jianshu.com/p/b4bf50823b50
+
+## Node.js 事件循环工作流程 & 生命周期
+#### http://www.imooc.com/article/27083?block_id=tuijian_wz
