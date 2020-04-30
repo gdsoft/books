@@ -1,16 +1,3 @@
-# books
-
-#### https://www.scheme.com/tspl4/
-#### https://github.com/guenchi/TSPL
-
-## Chez Scheme Version 9.5 User's Guide
-#### https://cisco.github.io/ChezScheme/csug9.5/
-#### https://github.com/guenchi/CSUG (中文版)
-
-## The Little Schemer 中文版
-#### http://uternet.github.io/TLS/
-#### http://www.cppblog.com/huaxiazhihuo/archive/2013/07/11/201689.html  (关于Y组合子，这篇比第九章讲的好)
-
 ## 函数范式
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
 #### http://www.ruanyifeng.com/blog/2017/03/ramda.html
