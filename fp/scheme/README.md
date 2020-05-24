@@ -13,7 +13,7 @@
 
 ## TSPL
 #### https://www.scheme.com/tspl4/
-#### https://github.com/guenchi/TSPL
+#### https://github.com/guenchi/TSPL (中文版)
 
 ## Chez Scheme Version 9.5 User's Guide
 #### https://cisco.github.io/ChezScheme/csug9.5/
