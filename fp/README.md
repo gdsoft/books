@@ -36,4 +36,4 @@
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content
 
 ###  函数式编程 入门指南
-https://rualc.com/cs/introduction-to-functional-programming/#what-is
+#### https://rualc.com/cs/introduction-to-functional-programming/#what-is
