@@ -34,3 +34,6 @@
 #### https://www.jianshu.com/p/cf28f2e5a905
 #### https://zhuanlan.zhihu.com/p/47130217
 #### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content
+
+###  函数式编程 入门指南
+https://rualc.com/cs/introduction-to-functional-programming/#what-is
