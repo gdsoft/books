@@ -24,22 +24,19 @@
 再传递第二个参数就是其完整表示。
 ((n s) z)
 ```
-### Hindley-Milner类型系统
+## Hindley-Milner类型系统
 #### https://www.zybuluo.com/darwin-yuan/note/424724
 
-### 不动点 (Y组合子)
+## 不动点 (Y组合子)
 #### https://blog.csdn.net/weixin_33737134/article/details/89079775
 #### https://www.jianshu.com/p/94efba6e6cb8
 #### https://www.cnblogs.com/pointer-smq/p/5229350.html
 
-### continuation CPS
+## continuation CPS
 #### https://www.cnblogs.com/pointer-smq/category/736075.html
 #### https://www.cnblogs.com/pointer-smq/p/4818006.html
 
-### monad
+## monad
 #### http://www.ruanyifeng.com/blog/2015/07/monad.html
 #### https://www.jianshu.com/p/cf28f2e5a905
 #### https://zhuanlan.zhihu.com/p/47130217
-
-###  函数式编程 入门指南
-#### https://rualc.com/cs/introduction-to-functional-programming/#what-is
