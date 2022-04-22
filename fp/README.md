@@ -1,5 +1,10 @@
 ## 函数范式
 #### https://github.com/llh911001/mostly-adequate-guide-chinese
+
+## 函数式编程 入门指南
+#### https://rualc.com/cs/introduction-to-functional-programming/
+
+## Ramda 函数库参考教程
 #### http://www.ruanyifeng.com/blog/2017/03/ramda.html
 
 ### Good Math/Bad Math的Lambda演算系列
