@@ -1,5 +1,5 @@
 ## 函数范式
-#### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
+#### https://github.com/llh911001/mostly-adequate-guide-chinese
 #### http://www.ruanyifeng.com/blog/2017/03/ramda.html
 
 ### Good Math/Bad Math的Lambda演算系列
@@ -33,7 +33,6 @@
 #### http://www.ruanyifeng.com/blog/2015/07/monad.html
 #### https://www.jianshu.com/p/cf28f2e5a905
 #### https://zhuanlan.zhihu.com/p/47130217
-#### https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content
 
 ###  函数式编程 入门指南
 #### https://rualc.com/cs/introduction-to-functional-programming/#what-is
