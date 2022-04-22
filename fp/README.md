@@ -6,6 +6,7 @@
 
 ## Ramda 函数库参考教程
 #### http://www.ruanyifeng.com/blog/2017/03/ramda.html
+#### https://github.com/ramda/ramda-fantasy
 
 ## Good Math/Bad Math的Lambda演算系列
 #### http://cgnail.github.io/academic/lambda-index/
